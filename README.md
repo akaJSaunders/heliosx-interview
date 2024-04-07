@@ -10,7 +10,9 @@ Expose APIs to enable a frontend MvP to ask a customer questions and check the e
 Java Spring Boot Application that allows for:
 
 - Exposes consultation questions, the valid answers and the correct answer
-- Exposes creation of a consultation for a user and whether it is eligible for product
+  - `GET http://localhost:8080/api/v1/consultation/questions`
+- Exposes consultation creation for answers to be provided and eligiblity to be calculated
+  - `POST http://localhost:8080/api/v1/consultation`
 - Exposes OpenApi v3 documentation on http://localhost:8080/swagger-ui/index.html#/
 
 
