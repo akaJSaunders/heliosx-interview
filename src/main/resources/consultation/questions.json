@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Are you above the age of 18?",
+    "validAnswers": ["Yes", "No"],
+    "correctAnswer": "Yes"
+  },
+  {
+    "id": 2,
+    "text": "Are you resident in The Grand Principality of Genovia?",
+    "validAnswers": ["Yes", "No"],
+    "correctAnswer": "Yes"
+  },
+  {
+    "id": 3,
+    "text": "Have you previously consumed Genovian Pears?",
+    "validAnswers": ["Yes", "No"],
+    "correctAnswer": "Yes"
+  },
+  {
+    "id": 4,
+    "text": "Have you experienced rash after eating a Genovian Pear?",
+    "validAnswers": ["Yes", "No"],
+    "correctAnswer": "Yes"
+  },
+  {
+    "id": 5,
+    "text": "Do you have any connections to the Genovian Apple industry?",
+    "validAnswers": ["Yes", "No"],
+    "correctAnswer": "No"
+  }
+]
